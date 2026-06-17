@@ -19,10 +19,10 @@ Specializing in high-availability infrastructure, virtualization, and operationa
 
 #### 🥈 Cybersecurity & Threat Defense
 Experienced in technical support, SOC operations, and security systems integration.
-![Trend Micro](https://img.shields.io/badge/Trend_Micro-E51A1D?style=for-the-badge&logo=trend-micro&logoColor=white)
+![Trend Micro](https://img.shields.io/badge/Trend_Micro-E51A1D?style=for-the-badge&logo=trendmicro&logoColor=white)
 ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC-Analyst-blue)
+![SOC](https://img.shields.io/badge/SOC_Operations-0050EF?style=for-the-badge&logo=opsgenie&logoColor=white)
 
 #### 🥉 Data Analytics & Insights
 Extracting patterns from complex logs and datasets to drive operational decisions.
@@ -51,8 +51,8 @@ Extracting patterns from complex logs and datasets to drive operational decision
 
 - **Engineering:** Licensed Electronics and Communications Engineer (ECE)
 - **Virtualization:** VMware VCAP6-DCV (Data Center) & VCP6-NV (Network)
-- **Cloud:** AWS Solutions Architect Associate, Azure Fundamentals, OCI Foundations Associate
-- **Security:** CompTIA Security+, EC-Council Certified SOC Analyst, IBM QRadar Foundation
+- **Cloud:** Azure Fundamentals, OCI Foundations Associate
+- **Security:** IBM QRadar Foundation
 - **Project Management:** Kepner-Tregoe Project Management Certification
 
 ---
