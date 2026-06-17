@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **🚧 Under Construction:** This profile is currently being revamped. Stay tuned for updates!
+
 # Hi there, I'm Fritz! 👋
 
 ## 🚀 About Me
