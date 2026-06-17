@@ -12,7 +12,7 @@ I am a versatile engineer with 15+ years of experience across various domains: *
 *Specializing in high-availability infrastructure, virtualization, and operational excellence.*
 
 * **Virtualization:** VMware (vSphere, vCenter, ESXi, NSX, vROps)
-* **Cloud:** AWS (SAA), Microsoft Azure, Oracle Cloud (OCI)
+* **Cloud:** AWS, Microsoft Azure, Oracle Cloud (OCI)
 * **Automation:** PowerShell, Jenkins, Ansible, AI-assisted development
 * **OS:** Windows Server, Linux (RHEL, Ubuntu, CentOS)
 
@@ -27,7 +27,7 @@ I am a versatile engineer with 15+ years of experience across various domains: *
 #### 🥉 Data Analytics & Insights
 *Extracting patterns from complex logs and datasets to drive operational decisions.*
 
-* **Tools:** SQL, Power BI, Microsoft Excel (Advanced), Python
+* **Tools:** SQL, Power BI, Microsoft Excel, Python
 * **Analysis:** Log Parsing, Fraud Pattern Recognition, Operational Reporting
 * **Visualization:** Dashboard Design, Weekly/Monthly/Quarterly Business Reviews
 * **Business:** Retail Data Analysis, Revenue Assurance
@@ -60,8 +60,8 @@ I am a versatile engineer with 15+ years of experience across various domains: *
 
 ### 🏠 Home Lab Project
 I maintain a robust lab for continuous experimentation:
-- **Infrastructure:** VMware ESXi 7.x, vCenter, Oracle VirtualBox
-- **Networking & Security:** Cisco ASA 5510, pfSense, Pi-hole (Raspberry Pi 4), MikroTik
+- **Infrastructure:** VMware ESXi 7.x, vCenter, VMware Workstation, Oracle VirtualBox, Proxmox
+- **Networking & Security:** Cisco ASA 5510, pfSense, Pi-hole (Raspberry Pi 4), MikroTik, TP-Link
 - **Data Side-Hustle:** Performing data analysis for our small business retail store.
 
 ---
