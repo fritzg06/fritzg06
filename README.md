@@ -9,27 +9,28 @@ I am a versatile engineer with 15+ years of experience across various domains: *
 ### 🛠️ Technical Focus
 
 #### 🥇 Site Reliability Engineering (SRE) & Cloud
-Specializing in high-availability infrastructure, virtualization, and operational excellence.
-![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+*Specializing in high-availability infrastructure, virtualization, and operational excellence.*
+
+* **Virtualization:** VMware (vSphere, vCenter, ESXi, NSX, vROps)
+* **Cloud:** AWS (SAA), Microsoft Azure, Oracle Cloud (OCI)
+* **Automation:** PowerShell, Jenkins, Ansible, AI-assisted development
+* **OS:** Windows Server, Linux (RHEL, Ubuntu, CentOS)
 
 #### 🥈 Cybersecurity & Threat Defense
-Experienced in technical support, SOC operations, and security systems integration.
-![Trend Micro](https://img.shields.io/badge/Trend_Micro-E51A1D?style=for-the-badge&logo=trendmicro&logoColor=white)
-![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC_Operations-0050EF?style=for-the-badge&logo=opsgenie&logoColor=white)
+*Experienced in technical support, SOC operations, and security systems integration.*
+
+* **Security Suites:** Trend Micro (Apex One, Deep Security, XDR)
+* **SIEM/SOC:** IBM QRadar, Splunk, SOC Operations, Threat Monitoring
+* **Network Security:** Cisco ASA, pfSense, Firewalls, Network Forensics
+* **Defense:** EDR/XDR, Web/Mail Gateways, Malware Analysis
 
 #### 🥉 Data Analytics & Insights
-Extracting patterns from complex logs and datasets to drive operational decisions.
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+*Extracting patterns from complex logs and datasets to drive operational decisions.*
+
+* **Tools:** SQL, Power BI, Microsoft Excel (Advanced), Python
+* **Analysis:** Log Parsing, Fraud Pattern Recognition, Operational Reporting
+* **Visualization:** Dashboard Design, Weekly/Monthly/Quarterly Business Reviews
+* **Business:** Retail Data Analysis, Revenue Assurance
 
 ---
 
