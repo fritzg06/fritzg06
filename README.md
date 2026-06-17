@@ -74,7 +74,7 @@ I maintain a robust lab for continuous experimentation:
 
 ### 📫 Connect with me
 - 🌍 [Portfolio](https://fritzg06.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fritzgeraldreyes/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/)
 - 📧 [Email](mailto:fritzg06@gmail.com)
 
 ---
