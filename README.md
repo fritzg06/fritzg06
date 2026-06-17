@@ -1,6 +1,6 @@
 # Hi there, I'm Fritz Gerald Reyes 👋
 
-**Principal Cloud SRE | Security Engineer | Data Enthusiast | Licensed Electronics & Communications Engineer**
+**Principal Cloud SRE | Cyber Security Engineer | Data Enthusiast | Licensed Electronics & Communications Engineer**
 
 I am a versatile engineer with 15+ years of experience across various domains: **Cloud Operations (SRE)**, **Cybersecurity**, and **Data Analysis**. I specialize in bridging the gap between complex infrastructure and data-driven insights, leveraging automation and AI-assisted development to optimize enterprise environments.
 
