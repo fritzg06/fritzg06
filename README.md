@@ -60,8 +60,8 @@ I am a versatile engineer with 15+ years of experience across various domains: *
 
 ### 🏠 Home Lab Project
 I maintain a robust lab for continuous experimentation:
-- **Infrastructure:** VMware ESXi 7.x, vCenter, VMware Workstation, Oracle VirtualBox, Proxmox
-- **Networking & Security:** Cisco ASA 5510, pfSense, Pi-hole (Raspberry Pi 4), MikroTik, TP-Link
+- **Infrastructure:** VMware ESXi 7.x, vCenter, VMware Workstation, Oracle VirtualBox, Proxmox VE
+- **Networking & Security:** MikroTik RB5009, TP-Link TL-SG2218 (Previous devices: MikroTik hAP Lite, TP-Link TL-SG108E, pfSense (Netgate 1100 SG-1100), Pi-hole (Raspberry Pi 4))
 - **Data Side-Hustle:** Performing data analysis for our small business retail store.
 
 ---
