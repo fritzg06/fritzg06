@@ -84,4 +84,4 @@ I maintain a robust lab for continuous experimentation:
   <img src="https://komarev.com/ghpvc/?username=fritzg06&label=Profile%20views&color=0e75b6&style=flat" alt="fritzg06" />
 </p>
 
-*“Always troubleshooting, always automating, always analyzing.”*
+*“Analyzing. Troubleshooting. Automating.”*
