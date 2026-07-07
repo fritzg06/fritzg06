@@ -74,4 +74,8 @@ I maintain a robust lab for continuous experimentation:
 
 ---
 
+> 🔒 *Note: Several of my repositories are intentionally kept private, as they contain security research, or internal infrastructure work.*
+
+---
+
 *“Analyzing. Troubleshooting. Automating.”*
