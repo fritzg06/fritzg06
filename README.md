@@ -74,8 +74,4 @@ I maintain a robust lab for continuous experimentation:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fritzg06&label=Profile%20views&color=0e75b6&style=flat" alt="fritzg06" />
-</p>
-
 *“Analyzing. Troubleshooting. Automating.”*
